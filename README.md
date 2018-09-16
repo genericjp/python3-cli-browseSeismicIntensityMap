@@ -1,11 +1,9 @@
 # python3-cli-browseSeismicIntensityMap
-browseSeismicIntensityMap
-
 # python browseSeismicIntensityMap.py
 
 """
     Browse GoogleMap (us)
-    from the information on the seismic intensity of the earthquake
+    from the information on the seismic intensity of the earthquake.
     [地震の震度に関する情報からGoogleMap（us）をブラウズする]
 
     It is used for the following three patterns...
