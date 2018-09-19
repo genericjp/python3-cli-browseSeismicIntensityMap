@@ -75,7 +75,7 @@
       [地震毎に震源・震度が気になるが情報もかき乱れる。出来たら、ざっくり状況を把握したいとの思い。]
 
       What I want to do: Google Maps (en) does not recognize the following.
-      36.6 degrees north latitude, 137.9 degrees east longitude as notation as Japanese.
+      36.6 degrees north latitude, 137.9 degrees east longitude as notation by Japanese.
       Somehow, n 36.6 e 137.9, or not.
       [私のやりたい事：　Google Maps (en )では、（表記は日本語としては）下記を認識しない。
 　　　　北緯３６．６度、東経１３７．９度、　なんとか、　n36.6 e137.9 と、ならないか]
