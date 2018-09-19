@@ -101,7 +101,7 @@
                      (2) Selection of other information even after startup 
                      　　　You can browse continuously if you clip.
          [使用方法は、（１）震源に関する情報を選択しクリップする。
-                      （２）起動後も、他の情報を選択クリップすれば連続ブラウズできる。]
+          　　　　　　（２）起動後も、他の情報を選択クリップすれば連続ブラウズできる。]
 
          By pressing "map epicenter", 
          you can browse with the clip information.
